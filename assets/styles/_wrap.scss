@@ -1,0 +1,46 @@
+.wrap {
+    
+    display: flex;
+    flex-direction: column;
+    padding-top: 118px;
+    padding-left: 300px;
+    width: 750px;
+}
+.part {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 76px;
+    /* or 119% */
+
+
+    color: #FFFFFF;
+    padding-bottom: 17px;
+
+}
+.describe {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    /* or 188% */
+
+
+    color: #FFFFFF;
+    padding-bottom: 37px;
+
+}
+.get{
+    display: flex;
+    flex-direction: row;
+    width: 300px;
+    justify-content: space-between;
+}
+
+.more {
+    width: 110px;
+    background: #FFFDFD;
+    border-radius: 4px;
+}   

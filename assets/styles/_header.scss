@@ -1,9 +1,8 @@
 .header {
     width: 100%;
-    height: 900px;
     display: flex;
-    flex-direction: row;
-    background-image: url(/assets/image/header/BG.png);
+   
+  
 }
 .logo {
     padding: 21px 333px 0px 300px;
@@ -29,12 +28,14 @@
 
 }
 .account {
+    display: flex;
+    flex-direction: row;
     padding-left: 30px;
     padding-top: 18px;
 }
 .login {
     padding-right: 24px;
-    
+    padding-top: 15px;
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 600;

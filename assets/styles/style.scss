@@ -20,4 +20,10 @@
     .top{
         padding-left: 1390px;
     }
+    .background{
+        background-image: url(/assets/image/header/BG.png);
+        width: 100%;
+        height: 900px;
+    }
 @import '_header.scss';
+@import '_wrap.scss';
