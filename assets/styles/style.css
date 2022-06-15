@@ -237,4 +237,117 @@ body {
 
 .tabs__block:target {
   display: block;
+}
+
+.inner {
+  width: 1400px;
+  margin: 0% auto;
+  padding-top: 100px;
+  display: flex;
+  flex-direction: row;
+}
+
+.foto {
+  display: flex;
+  flex-direction: row;
+}
+
+.mountain {
+  position: absolute;
+}
+
+.girl {
+  position: relative;
+  padding: 297px 0px 0px 211px;
+}
+
+.col {
+  display: flex;
+  flex-direction: row;
+  padding: 101px 0px 0px 0px;
+}
+
+.txt {
+  display: flex;
+  flex-direction: column;
+  width: 521px;
+}
+
+.about {
+  font-family: "Quick Kiss Personal Use";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 15px;
+  /* or 62% */
+  color: #FFC814;
+}
+
+.info {
+  padding-top: 10px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 48px;
+  /* or 133% */
+  text-transform: capitalize;
+  color: #1F3347;
+}
+
+.paragrph {
+  padding-top: 29px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  /* or 150% */
+  color: #9DA1B4;
+}
+
+.list {
+  padding-top: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.list__txt {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  /* or 225% */
+  color: #9DA1B4;
+}
+
+.number {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 300px;
+  padding-top: 32px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 28px;
+  /* identical to box height, or 78% */
+  color: #FFC814;
+}
+
+.ava {
+  width: 300px;
+  padding-top: 7px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+  padding-bottom: 20px;
+  color: #9DA1B4;
 }/*# sourceMappingURL=style.css.map */
